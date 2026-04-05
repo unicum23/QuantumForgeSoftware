@@ -1,0 +1,11 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "documents_count": 32,
+  "chunks_count": 1326,
+  "kb_dir": "knowledge_base",
+  "chunk_size": 1200,
+  "chunk_overlap": 200,
+  "build_time_seconds": 72.41,
+  "vector_db": "FAISS"
+}
