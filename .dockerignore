@@ -1,0 +1,16 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.env
+data
+knowledge_base
+scripts
+README.md
+README_task2.md
+README_task3.md
+Project_template_1.md
+terms_map.json

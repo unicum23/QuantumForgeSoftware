@@ -1,0 +1,80 @@
+{
+  "Darth Vader": "Xarn Velgor",
+  "Luke Skywalker": "Kael Veynor",
+  "Leia Organa": "Lyra Voss",
+  "Princess Leia": "Lyra Voss",
+  "Han Solo": "Jarek Sol",
+  "Obi-Wan Kenobi": "Orin Talvek",
+  "Yoda": "Veyru",
+  "Palpatine": "Morvane",
+  "Emperor": "Supreme Regent",
+  "Padmé Amidala": "Seren Vale",
+  "Anakin Skywalker": "Daren Veynor",
+  "Boba Fett": "Korr Vex",
+
+  "Jedi Order": "Aether Order",
+  "Jedi Orders": "Aether Orders",
+  "Jedi": "Aether monk",
+  "Jedis": "Aether monks",
+  "Sith": "Void disciple",
+  "Siths": "Void disciples",
+
+  "Galactic Empire": "Astral Dominion",
+  "Rebel Alliance": "Free Systems Coalition",
+
+  "Clone Trooper": "Replicant Soldier",
+  "Clone Troopers": "Replicant Soldiers",
+  "Clone trooper": "Replicant Soldier",
+  "Clone troopers": "Replicant Soldiers",
+  "clone trooper": "replicant soldier",
+  "clone troopers": "replicant soldiers",
+
+  "Stormtrooper": "Iron Legionnaire",
+  "Stormtroopers": "Iron Legionnaires",
+  "stormtrooper": "iron legionnaire",
+  "stormtroopers": "iron legionnaires",
+
+  "The Force": "Synth Flux",
+  "the Force": "Synth Flux",
+
+  "Death Star": "Void Core",
+  "death star": "void core",
+  "Death Stars": "Void Cores",
+  "death stars": "void cores",
+
+  "Lightsaber": "Pulse Blade",
+  "Lightsabers": "Pulse Blades",
+  "lightsaber": "pulse blade",
+  "lightsabers": "pulse blades",
+
+  "Millennium Falcon": "Night Sparrow",
+
+  "TIE Fighter": "Viper Interceptor",
+  "TIE Fighters": "Viper Interceptors",
+  "TIE fighter": "Viper Interceptor",
+  "TIE fighters": "Viper Interceptors",
+
+  "X-wing": "Raptor-class Fighter",
+  "X-wings": "Raptor-class Fighters",
+  "X-wing fighter": "Raptor-class Fighter",
+  "X-wing fighters": "Raptor-class Fighters",
+  "X-wing starfighter": "Raptor-class Fighter",
+  "X-wing starfighters": "Raptor-class Fighters",
+
+  "Hyperdrive": "Phase Engine",
+  "Hyperdrives": "Phase Engines",
+  "hyperdrive": "phase engine",
+  "hyperdrives": "phase engines",
+
+  "Tatooine": "Kharon IV",
+  "Coruscant": "Nexis Prime",
+  "Naboo": "Elvaris",
+  "Hoth": "Cryon",
+  "Endor": "Velis",
+  "Mustafar": "Drathos",
+
+  "Clone Wars": "Replicant Conflict",
+  "Battle of Yavin": "Siege of Arkon",
+  "Order 66": "Directive 66",
+  "Great Jedi Purge": "Great Aether Purge"
+}
